@@ -1,2 +1,2 @@
-# open-kosmos
+# Open-Kosmos
 Source for Open Kosmos project. 
