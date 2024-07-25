@@ -1,0 +1,14 @@
+{
+    "name": "Prototypes_Parts",
+    "rootNamespace": "Kosmos.Prototypes.Parts",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

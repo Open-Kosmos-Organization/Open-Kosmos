@@ -1,0 +1,17 @@
+{
+    "name": "Prototypes_VAB",
+    "rootNamespace": "Kosmos.Prototypes.VAB",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:d3c627f708b3f374aa290e50dac8b9e4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
