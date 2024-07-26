@@ -1,10 +1,11 @@
 using System;
 using Kosmos.Prototypes.Time;
+using Kosmos.Prototypes.Time.Components;
 using Kosmos.Prototypes.Time.UI.Debug;
 using Unity.Collections;
 using Unity.Entities;
 
-namespace Kosmos.Prototypes.VAB.Gizmos
+namespace Kosmos.Prototypes.Time.Systems
 {
     public partial class DebugTimeUiUpdateSystem : SystemBase
     {

@@ -1,6 +1,6 @@
 using Unity.Entities;
 
-namespace Kosmos.Prototypes.Time
+namespace Kosmos.Prototypes.Time.Components
 {
     public struct UniversalTime : IComponentData
     {

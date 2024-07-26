@@ -10,7 +10,7 @@ namespace Kosmos.UI.MainMenu
     public struct PrototypeSceneEntry
     {
         public string ButtonId;
-        public SceneAsset SceneAsset;
+        public Scene SceneAsset;
     }
     
     public class MainMenuUiController : MonoBehaviour
@@ -33,7 +33,7 @@ namespace Kosmos.UI.MainMenu
             }
         }
         
-        private async Awaitable AwaitOnPrototypeSceneClicked(SceneAsset sceneAsset)
+        private async Awaitable AwaitOnPrototypeSceneClicked(Scene sceneAsset)
         {
             // Immediately load the loading scene if it's not already loaded
             var asyncLoadingLoad = SceneManager.LoadSceneAsync(SCENE_LOADING, LoadSceneMode.Additive);

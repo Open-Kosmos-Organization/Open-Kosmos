@@ -1,7 +1,8 @@
 using Kosmos.Prototypes.Time;
+using Kosmos.Prototypes.Time.Components;
 using Unity.Entities;
 
-namespace Kosmos.Prototypes.VAB.Gizmos
+namespace Kosmos.Prototypes.Time.Systems
 {
     public partial class UniversalTimeProgressionSystem : SystemBase
     {
