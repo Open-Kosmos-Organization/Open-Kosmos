@@ -1,0 +1,14 @@
+{
+    "name": "Prototypes_Lifecycle",
+    "rootNamespace": "Kosmos.Prototypes.Lifecycle",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

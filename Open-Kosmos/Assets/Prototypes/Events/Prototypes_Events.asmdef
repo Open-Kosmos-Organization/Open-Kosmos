@@ -1,0 +1,16 @@
+{
+    "name": "Prototypes_Events",
+    "rootNamespace": "Kosmos.Prototypes.Events",
+    "references": [
+        "GUID:bb7007581bb9c3249b8be5df1fbc8598"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

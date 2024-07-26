@@ -72,4 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 *.vsconfig
-/Open-Kosmos/.idea
+
+# Package lock file
+/[Pp]ackages/packages-lock.json
