@@ -1,5 +1,4 @@
-using System;
-using Kosmos.Prototypes.Time;
+using Kosmos.Prototypes.Time.Components;
 using Unity.Entities;
 using UnityEngine;
 
